@@ -16,5 +16,7 @@
   "devDependencies": {
     "tap": "^14.9.2"
   },
-  "dependencies": {}
+  "funding": {
+    "url": "https://github.com/sponsors/isaacs"
+  }
 }
