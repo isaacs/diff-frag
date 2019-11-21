@@ -1,0 +1,20 @@
+{
+  "name": "diff-frag",
+  "version": "0.0.0",
+  "description": "Take a big diff with a 2-line header and turn it into frags with only a reasonable amount of context",
+  "author": "Isaac Z. Schlueter <i@izs.me> (https://izs.me)",
+  "license": "ISC",
+  "scripts": {
+    "test": "tap",
+    "preversion": "npm test",
+    "postversion": "npm publish",
+    "postpublish": "git push origin --follow-tags"
+  },
+  "tap": {
+    "check-coverage": true
+  },
+  "devDependencies": {
+    "tap": "^14.9.2"
+  },
+  "dependencies": {}
+}
