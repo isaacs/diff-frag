@@ -18,5 +18,8 @@
   },
   "funding": {
     "url": "https://github.com/sponsors/isaacs"
-  }
+  },
+  "files": [
+    "index.js"
+  ]
 }
