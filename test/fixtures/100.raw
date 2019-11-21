@@ -1,0 +1,312 @@
+--- expected
++++ actual
+ Object {
+   "0x": Array [
+     0,
+   ],
+   "1x": Array [
+     1,
+   ],
+   "2x": Array [
+     2,
+   ],
+   "3x": Array [
+     3,
+   ],
+   "4x": Array [
+     4,
+   ],
+   "5x": Array [
+     5,
+   ],
+   "6x": Array [
+     6,
+   ],
+   "7x": Array [
+     7,
+   ],
+   "8x": Array [
+     8,
+   ],
+   "9x": Array [
+     9,
+   ],
+   "10x": Array [
+     10,
+   ],
+   "11x": Array [
+     11,
+   ],
+   "12x": Array [
+     12,
+   ],
+   "13x": Array [
+     13,
+   ],
+   "14x": Array [
+     14,
+   ],
+   "15x": Array [
+     15,
+   ],
+   "16x": Array [
+     16,
+   ],
+   "17x": Array [
+     17,
+   ],
+   "18x": Array [
+     18,
+   ],
+   "19x": Array [
+     19,
+   ],
+   "20x": Array [
+     20,
+   ],
+   "21x": Array [
+     21,
+   ],
+   "22x": Array [
+     22,
+   ],
+   "23x": Array [
+     23,
+   ],
+   "24x": Array [
+     24,
+   ],
+   "25x": Array [
+     25,
+   ],
+   "26x": Array [
+     26,
+   ],
+   "27x": Array [
+     27,
+   ],
+   "28x": Array [
+     28,
+   ],
+   "29x": Array [
+     29,
+   ],
+   "30x": Array [
+     30,
+   ],
+   "31x": Array [
+     31,
+   ],
+   "32x": Array [
+     32,
+   ],
+   "33x": Array [
+     33,
+   ],
+   "34x": Array [
+     34,
+   ],
+   "35x": Array [
+     35,
+   ],
+   "36x": Array [
+     36,
+   ],
+   "37x": Array [
+     37,
+   ],
+   "38x": Array [
+     38,
+   ],
+   "39x": Array [
+     39,
+   ],
+   "40x": Array [
+     40,
+   ],
+   "41x": Array [
+     41,
+   ],
+   "42x": Array [
+     42,
+   ],
+   "43x": Array [
+     43,
+   ],
+   "44x": Array [
+     44,
+   ],
+   "45x": Array [
+     45,
+   ],
+   "46x": Array [
+     46,
+   ],
+   "47x": Array [
+     47,
+   ],
+   "48x": Array [
+     48,
+   ],
+   "49x": Array [
+     49,
+   ],
+   "50x": Array [
+-    100,
++    50,
+-    51,
+-    52,
+-    53,
+   ],
+   "51x": Array [
+     51,
+   ],
+   "52x": Array [
+     52,
+   ],
+   "53x": Array [
+     53,
+   ],
+   "54x": Array [
+     54,
+   ],
+   "55x": Array [
+     55,
+   ],
+   "56x": Array [
+     56,
+   ],
+   "57x": Array [
+     57,
+   ],
+   "58x": Array [
+     58,
+   ],
+   "59x": Array [
+     59,
+   ],
+   "60x": Array [
+     60,
+   ],
+   "61x": Array [
+     61,
+   ],
+   "62x": Array [
+     62,
+   ],
+   "63x": Array [
+     63,
+   ],
+   "64x": Array [
+     64,
+   ],
+   "65x": Array [
+     65,
+   ],
+   "66x": Array [
+     66,
+   ],
+   "67x": Array [
+     67,
+   ],
+   "68x": Array [
+     68,
+   ],
+   "69x": Array [
+     69,
+   ],
+   "70x": Array [
+     70,
+   ],
+   "71x": Array [
+     71,
+   ],
+   "72x": Array [
+     72,
+   ],
+   "73x": Array [
+     73,
+   ],
+   "74x": Array [
+     74,
+   ],
+   "75x": Array [
+     75,
+   ],
+   "76x": Array [
+     76,
+   ],
+   "77x": Array [
+     77,
+   ],
+   "78x": Array [
+     78,
+   ],
+   "79x": Array [
+     79,
+   ],
+   "80x": Array [
+     80,
+   ],
+   "81x": Array [
+     81,
+   ],
+   "82x": Array [
+     82,
+   ],
+   "83x": Array [
+     83,
+   ],
+   "84x": Array [
+     84,
+   ],
+   "85x": Array [
+     85,
+   ],
+   "86x": Array [
+     86,
+   ],
+   "87x": Array [
+     87,
+   ],
+   "88x": Array [
+     88,
+   ],
+   "89x": Array [
+     89,
+   ],
+   "90x": Array [
+     90,
+   ],
+   "91x": Array [
+     91,
+   ],
+   "92x": Array [
+     92,
+   ],
+   "93x": Array [
+     93,
+   ],
+   "94x": Array [
+     94,
+   ],
+   "95x": Array [
+     95,
+   ],
+   "96x": Array [
+     96,
+   ],
+   "97x": Array [
+     97,
+   ],
+   "98x": Array [
+     98,
+   ],
+   "99x": Array [
+     99,
+   ],
+-  "50x_": Array [
+-    51,
+-  ],
+-  "50y": 50,
+ }

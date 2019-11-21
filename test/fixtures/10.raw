@@ -1,0 +1,41 @@
+--- expected
++++ actual
+ Object {
+   "0x": Array [
+     0,
+-    1,
+-    2,
+-    3,
+   ],
+   "1x": Array [
+     1,
+   ],
+   "2x": Array [
+     2,
+   ],
+   "3x": Array [
+     3,
+   ],
+   "4x": Array [
+     4,
+   ],
+   "5x": Array [
+     5,
+   ],
+   "6x": Array [
+     6,
+   ],
+   "7x": Array [
+     7,
+   ],
+   "8x": Array [
+     8,
+   ],
+   "9x": Array [
+     9,
+   ],
+-  "0x_": Array [
+-    1,
+-  ],
+-  "0y": 0,
+ }
