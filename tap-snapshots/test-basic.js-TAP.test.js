@@ -302,6 +302,47 @@ exports[`test/basic.js TAP 1000 > with specified headers and names 1`] = `
 
 `
 
+exports[`test/basic.js TAP just-patch > --- expected
++++ actual
+@@ -1,4 +1,4 @@
+-Array [
+-  1,
+-  2,
+-]
++And [
++  1,
++  2,
++]
+ 1`] = `
+--- expected
++++ actual
+@@ -1,4 +1,4 @@
+-Array [
+-  1,
+-  2,
+-]
++And [
++  1,
++  2,
++]
+
+`
+
+exports[`test/basic.js TAP just-patch > with specified headers and names 1`] = `
+--- the-old-name	some words about this old thing
++++ new-name	a head, er... i guess?
+@@ -1,4 +1,4 @@
+-Array [
+-  1,
+-  2,
+-]
++And [
++  1,
++  2,
++]
+
+`
+
 exports[`test/basic.js TAP long-header > --- expected
 +++ actual
 @@ -11,9 +11,12 @@ Object except that this is ...

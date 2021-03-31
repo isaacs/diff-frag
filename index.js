@@ -57,6 +57,9 @@ module.exports = (diff, options = {}) => {
   let newPatch = ''
 
   const finishPatch = () => {
+    patch += oldPatch + newPatch
+    oldPatch = ''
+    newPatch = ''
     const actualContext = afterContext.slice(0, contextLines)
     const extraContext = afterContext.length - actualContext.length
     patch += actualContext.join('')
