@@ -343,6 +343,20 @@ exports[`test/basic.js TAP just-patch > with specified headers and names 1`] = `
 
 `
 
+exports[`test/basic.js TAP just-space > --- expected
++++ actual
+ 1`] = `
+--- expected
++++ actual
+
+`
+
+exports[`test/basic.js TAP just-space > with specified headers and names 1`] = `
+--- the-old-name	some words about this old thing
++++ new-name	a head, er... i guess?
+
+`
+
 exports[`test/basic.js TAP long-header > --- expected
 +++ actual
 @@ -11,9 +11,12 @@ Object except that this is ...

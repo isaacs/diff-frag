@@ -202,6 +202,10 @@ module.exports = (diff, options = {}) => {
         // fallthrough to error
 
       default:
+        if (line === '\n' && match.index === diff.length - 1) {
+          // it's fine, just a trailing \n at the end
+          continue
+        }
         throw new Error('invalid diffline ' + JSON.stringify(line))
     }
   }
