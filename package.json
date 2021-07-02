@@ -11,6 +11,10 @@
     "postversion": "npm publish",
     "prepublishOnly": "git push origin --follow-tags"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isaacs/diff-frag.git"
+  },
   "tap": {
     "check-coverage": true
   },
