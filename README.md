@@ -48,7 +48,7 @@ index glorp..prolg 100655
 
 -what you want
 +what you want is just this bit
-+just the changes
++ just the changes
 
  more more more more more.... it goes on and on for a long time...
 @@ -2456,5 +2567,5 @@ another bit of context here
