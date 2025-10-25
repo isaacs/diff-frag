@@ -3,7 +3,7 @@
   "version": "1.1.1",
   "description": "Take a big diff with a 2-line header and turn it into frags with only a reasonable amount of context",
   "author": "Isaac Z. Schlueter <i@izs.me> (https://izs.me)",
-  "license": "ISC",
+  "license": "BlueOak-1.0.0",
   "scripts": {
     "snap": "tap",
     "test": "tap",
